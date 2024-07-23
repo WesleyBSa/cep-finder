@@ -1,0 +1,14 @@
+C:\Users\Grupo LA\CepFind\cep\obj\Debug\net8.0\cep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grupo LA\CepFind\cep\obj\Debug\net8.0\cep.AssemblyInfoInputs.cache
+C:\Users\Grupo LA\CepFind\cep\obj\Debug\net8.0\cep.AssemblyInfo.cs
+C:\Users\Grupo LA\CepFind\cep\obj\Debug\net8.0\cep.csproj.CoreCompileInputs.cache
+C:\Users\Grupo LA\CepFind\cep\bin\Debug\net8.0\cep.exe
+C:\Users\Grupo LA\CepFind\cep\bin\Debug\net8.0\cep.deps.json
+C:\Users\Grupo LA\CepFind\cep\bin\Debug\net8.0\cep.runtimeconfig.json
+C:\Users\Grupo LA\CepFind\cep\bin\Debug\net8.0\cep.dll
+C:\Users\Grupo LA\CepFind\cep\bin\Debug\net8.0\cep.pdb
+C:\Users\Grupo LA\CepFind\cep\obj\Debug\net8.0\cep.dll
+C:\Users\Grupo LA\CepFind\cep\obj\Debug\net8.0\refint\cep.dll
+C:\Users\Grupo LA\CepFind\cep\obj\Debug\net8.0\cep.pdb
+C:\Users\Grupo LA\CepFind\cep\obj\Debug\net8.0\cep.genruntimeconfig.cache
+C:\Users\Grupo LA\CepFind\cep\obj\Debug\net8.0\ref\cep.dll
